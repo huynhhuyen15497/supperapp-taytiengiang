@@ -1,0 +1,6 @@
+{
+  "name": "VietinBank - Quầy Giao Dịch Số",
+  "description": "Cổng tiện ích và tương tác khách hàng thông minh tại quầy giao dịch VietinBank: Giải đáp thắc mắc, Game mini nhận voucher xăng, Tính lãi tiền gửi, Lịch trả nợ khoản vay, Sản phẩm nổi bật và Điểm giao dịch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
